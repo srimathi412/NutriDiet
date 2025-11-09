@@ -10,12 +10,19 @@ A full-stack web application that provides personalized diet recommendations usi
 ## ✨ Features
 
 🔐 **User Authentication** - Secure sign up, sign in, and session management
+
 🤖 **ML-Powered Recommendations** - Uses K-Means clustering to recommend meals based on nutritional requirements
+
 📊 **Interactive Dashboard** - Visualize progress with charts and statistics
+
 🎯 **Goal-Based Planning** - Supports weight loss, muscle gain, and maintenance goals
+
 🚫 **Allergy Filtering** - Excludes allergens from meal recommendations
+
 📱 **Responsive Design** - Modern UI built with React and Tailwind CSS
+
 🍽️ **Meal Details** - View detailed nutritional information for each recommended meal
+
 💾 **Data Persistence** - MongoDB integration for storing user data and meal history
 
 ## 🛠️ Tech Stack
@@ -296,5 +303,6 @@ shadcn/ui for beautiful components
 ## 📞 Support
 
 For support, email srimathi4125@gmail.com or create an issue in the repository.
+
 
 
