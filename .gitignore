@@ -65,3 +65,30 @@ htmlcov/
 coverage.xml
 *.cover
 
+# Large binary files
+*.lockb
+bun.lockb
+
+# Large images (keep public images, exclude source images)
+src/**/*.png
+src/**/*.jpg
+src/**/*.jpeg
+!public/**/*.png
+!public/**/*.jpg
+!public/**/*.jpeg
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
