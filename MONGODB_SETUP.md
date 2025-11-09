@@ -15,10 +15,10 @@ MONGODB_PASSWORD=your_actual_password_here
 If you prefer to set the connection string directly in the code, you can modify `app.py` line 19:
 
 ```python
-MONGODB_URI = "mongodb+srv://kit27cse57_db_user:YOUR_PASSWORD@nutridiet.rbvihzn.mongodb.net/?appName=NutriDiet"
+MONGODB_URI = ""
 ```
 
-Replace `YOUR_PASSWORD` with your actual password.
+Replace `""` with your MONGODB_URI.
 
 ## Testing Connection
 
